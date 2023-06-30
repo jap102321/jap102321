@@ -1,12 +1,12 @@
-<h1 align="center">Hola 👋, soy Juan Pablo González</h1>
-<h3 align="center">Un Front & Back-End Entree Developer.</h3>
+<h1 align="center">Hi 👋, I'm Juan Pablo González</h1>
+<h3 align="center">A Front & Back-End Entree Developer.</h3>
 <img align="right" width="400" alt="Coding" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
-- 🌱Actualmente estoy aprendiendo **Springboot, Next JS**
+- 🌱At the moment I'm learning **Springboot, Next JS**
 
-- 💬 Te puedo ayudar con estos temas **React, Web Development**
+- 💬 I'm proficient in this **React, Web Development**
 
-- 📫 Cómo contactarme? **jupago14@gmail.com**
+- 📫 How to contact me? **jupago14@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
