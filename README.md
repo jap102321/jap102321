@@ -4,7 +4,7 @@
 
 - 🌱At the moment I'm learning **Springboot, Next JS**
 
-- 💬 I'm proficient in this **React, Web Development**
+- 💬 I'm proficient in **React, Web Development**
 
 - 📫 How to contact me? **jupago14@gmail.com**
 
