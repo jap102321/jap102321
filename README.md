@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Juan Pablo González</h1>
-<h3 align="center">A Front & Back-End Entree Developer.</h3>
+<h3 align="center">A Full Stack Developer.</h3>
 <img align="right" width="400" alt="Coding" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
 - 🌱At the moment I'm learning **Springboot, Next JS**
