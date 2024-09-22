@@ -2,9 +2,7 @@
 <h3 align="center">A Full Stack Developer.</h3>
 <img align="right" width="400" alt="Coding" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
-- 🌱At the moment I'm learning **Springboot, Next JS**
-
-- 💬 I'm proficient in **React, Web Development** 
+- Working as a Full Stack Developer for Lean Tech.
 
 - 📫 How to contact me? **jupago14@gmail.com**
 
